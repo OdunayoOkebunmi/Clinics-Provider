@@ -1,4 +1,4 @@
-# Scratch-Pay
+# Clinics-Provider
 RESTful API endpoint to allow search in multiple clinic providers and display results from all the available clinics by any of the following:
 - Clinic Name
 - State [ex: "CA" or "California"]
@@ -26,11 +26,11 @@ https://documenter.getpostman.com/view/10230743/2s93Y2ShD4
 ### Setting up
 1. Clone this repository into your local machine:
 ```
-git clone https://github.com/OdunayoOkebunmi/Scratch-Pay
+git clone https://github.com/OdunayoOkebunmi/Clinics-Provider
 ```
 2. cd into the folder
 ```
-cd Scratch-Pay
+cd Clinics-Provider
 ```
 
 3. Create `.env` file and fill out the required information 
